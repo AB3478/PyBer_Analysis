@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## Resources
-- Data sources: schools_complete.csv, students_complete.csv
+- Data sources: city_data.csv, ride_data.csv 
 - Jupyter Notebook 6.4.11
 - Python 4.13.0
 - Library: Pandas, Matplotlib
