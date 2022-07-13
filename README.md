@@ -10,7 +10,7 @@ PyBer, a python-based ride sharing company, has requested analysis and a graph e
 
 ## Analysis of Results
 
-The most distinct differences in ride-sharing data was between urban and rural cities.
+The most distinct differences in ride-sharing data was between urban and rural cities. For every category
 ![](https://github.com/AB3478/PyBer_Analysis/blob/main/Resources/PyBer_Summary.png)
 
 ![](https://github.com/AB3478/PyBer_Analysis/blob/main/Resources/PyBer_Fare_Summary.png)
