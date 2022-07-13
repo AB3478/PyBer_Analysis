@@ -15,7 +15,7 @@ The greatest differences in PyBer's ride-sharing data were between urban and rur
 ### PyBer Summary DataFrame
 ![](https://github.com/AB3478/PyBer_Analysis/blob/main/Resources/PyBer_Summary.png)
 
-The multiple line graph highlights the significant range in total fares by city type. It also highlights the beginning of January as a relative low point for fares with a peak across all city types in late February.  
+The multiple line graph highlights the wide range in total fares by city type. It also highlights the beginning of January as a relative low point for fares with a peak across all city types in late February.  
 
 ### PyBer Total Fare by City Type
 ![](https://github.com/AB3478/PyBer_Analysis/blob/main/Resources/PyBer_Fare_Summary.png)
