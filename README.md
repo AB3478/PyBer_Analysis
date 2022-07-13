@@ -22,6 +22,6 @@ The multiple line graph highlights the wide range in total fares by city type. I
 
 ## Recommendations
 
-1. Additional advertising, hiring drivers, and reducing costs for rural customers may help increase the demand and total fares PyBer earns from rural cities. 
-2. The greatest demand and total fares are generated from urban cities. PyBer should primarily focus on expanding to other urban cities in effort to generate further profits 
+1. Additional advertising, reducing costs for rural customers, and hiring more drivers may help increase the demand and total fares PyBer earns from rural cities. 
+2. Currently, the greatest demand and total fares are generated from urban cities. PyBer should primarily focus on expanding to other urban cities in effort to grow profits 
 3. Lastly,
