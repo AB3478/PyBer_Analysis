@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Project Overview
-PyBer, a python-based ride sharing company, has requested analysis and a graph examining the total weekly fares for each city type. This written summary provides an overview of how the data differs by city type and provides three business recommendations for addressing disparities among urban, suburban, and rural cities. The goal of this analysis is to improve access to ride sharing services and determine affordability for underserved neighborhoods.
+PyBer, a python-based ride sharing company, has requested analysis and a graph examining the total weekly fares for each city type. This written summary provides an overview of differenes between urban, suburban, and rural cities and provides three business recommendations for addressing disparities among city types. The goal of this analysis is to improve access to ride sharing services and determine affordability for underserved neighborhoods.
 
 ## Resources
 - Data sources: city_data.csv, ride_data.csv 
